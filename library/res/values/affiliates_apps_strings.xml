@@ -1,3 +1,4 @@
+
 <resources>
     <string name="affiliate_app_title_com_cubeactive_qnotelistfree">Note l!st</string>
     <string name="affiliate_app_description_com_cubeactive_qnotelistfree">The easy yet powerful notepad</string>
@@ -13,4 +14,7 @@
 
     <string name="affiliate_app_title_de_openminds_count_it">Count It!</string>
     <string name="affiliate_app_description_de_openminds_count_it">Keep track of your habits and goals</string>
+    
+    <string name="affiliate_app_title_com_risesoftware_focus_free">Focus</string>
+    <string name="affiliate_app_description_com_risesoftware_focus_free">Safely share your phone pictures with friends</string>
 </resources>
